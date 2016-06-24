@@ -2,13 +2,12 @@
 title: Ongoing review of my Burton Wheelie Flyer 
 tags: burton
 author: Rob Nugen
-date: 2016-06-22T16:56:07+09:00
+date: 2016-06-25T16:56:07+09:00
 ---
 
 ## 16:56 Wednesday 22 June 2016 JST
 
-I figure I can gain fake internet points by writing (and updating) a
-mega-detailed(?) review of the Burton bag which caught my eye today.
+I'm planning to write about my experience with a Burton bag.
 
 ## Initial impressions in store
 
@@ -71,3 +70,38 @@ So far so good: quick reply:
 
     To add additional comments, reply to this email.
 
+It took a couple days, but I received this 22:44pm 24 June 2016
+
+    Hey Rob,
+    
+    Thanks for reaching out to us the Ixion wheels that we use are
+    skateboard wheels with sealed bearing which will give you great
+    durability over rough and varied terrain. Plus our bags including
+    the wheels are backed by a lifetime warranty against breaking. As
+    for the water proofing of the bag, they are made with a water
+    resistant nylon that will keep your belongings safe through most
+    conditions. Unfortunately, we do not have any rain covers
+    available directly. Also, there are no covers designed to work
+    exclusively with this bag. Most are designed to work with back
+    packs though you could use them on the flyer as long as the cover
+    is sized to the dimensions of the pack. the Wheelie flyer is 25L
+    and has dimensions of 18in x 12in x 9.5in. Please let us know if
+    you have any further questions or concerns.
+    
+    Sincerely,
+    
+    Tim H | Rider Service | BURTON
+
+Tim didn't mention the broken link, but it's been fixed!
+
+Thanks, Tim!
+
+Okay, so I'm pretty set on buying the bag.  I want to make sure it has
+a couple small pockets to hold toothbrush+toothpaste+floss, pens,
+phone chargers, and computer chargers.
+
+Oh, and bonus: I was able to use a 100 character password on
+info.burton.com so that pretty much tells me they don't save them in
+plaintext.
+
+Ah, `dig` tells me it's a CNAME for zendesk.com.  Fair enough.
