@@ -105,3 +105,31 @@ info.burton.com so that pretty much tells me they don't save them in
 plaintext.
 
 Ah, `dig` tells me it's a CNAME for zendesk.com.  Fair enough.
+
+## 20:32 Sunday 26 June 2016 JST
+
+Oh my goodness so sad!  I went to Burton today, completely set and
+happy to buy the bag, but it's simply too small!!!  I brought all the
+junk I often carry in my backpack: extra shoes, etc... but they simply
+wouldn't fit nicely.  The bag looks hella strong enough but not big
+enough.  So the clerk was like, "how about this?" and everything fit,
+BUT when I lifted it, the handle was like, "umm are you sure you need
+to carry all this?"
+
+Sigh.
+
+There was another bag (wheelie flyer deck) which was big enough and
+strong enough, but didn't have a place for my backpack.
+
+Aight.  I'll have a look at something else.  Lin is suggesting TUMI.
+
+## Monday 27 June 2016
+
+Forget TUMI; too expensive to not have a lifetime warranty.
+
+## Tuesday 28 June 2016
+
+Today I went to a sewing shop to get some thick thread and needles to
+fix my bag.  I'm bummed that my attempt to buy a Burton bag resulted
+in Goldilock's Syndrome, but I'm not going to buy a new bag that's not
+optimal for my needs.
