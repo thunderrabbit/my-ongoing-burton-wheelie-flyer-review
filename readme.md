@@ -1,6 +1,6 @@
 ---
 title: Ongoing review of my Burton Wheelie Flyer 
-tags: burton
+tags: [ "burton" ]
 author: Rob Nugen
 date: 2016-06-25T16:56:07+09:00
 ---
